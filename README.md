@@ -16,6 +16,6 @@ Chap6：特殊案例
 
 Chap7：问题
 
-[Part1. 图论与线性代数](https://www.notion.so/Part1-e16f082d038b4bffb1d950b1dac9f66f)
+[Part1. 图论与线性代数](https://github.com/TongKang1/StudyNote/blob/main/Part1%20%E5%9B%BE%E8%AE%BA%E4%B8%8E%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20.md)
 
 [Part2. 常见的几种网络](https://www.notion.so/Part2-536f336503c740c5a51261da4dcc7506)
